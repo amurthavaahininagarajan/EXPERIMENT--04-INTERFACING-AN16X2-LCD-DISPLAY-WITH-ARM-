@@ -224,6 +224,8 @@ void Error_Handler(void)
 ## Output screen shots of proteus  :
 
  ![EXP4](https://user-images.githubusercontent.com/118679102/236691071-2638871e-9e96-4fd4-99f2-9d7d42b487d9.jpg)
+ ![Screenshot (73)](https://github.com/amurthavaahininagarajan/EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM-/assets/118679102/5d6fada7-036f-4b26-a93e-8af5ed283025)
+
 
  
  
