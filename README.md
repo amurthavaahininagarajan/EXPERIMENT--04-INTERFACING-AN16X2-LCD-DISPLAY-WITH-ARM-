@@ -173,6 +173,7 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
 
 
 ## STM 32 CUBE PROGRAM :
+```
 #include "main.h"
 #include"lcd.h"
 
@@ -189,7 +190,7 @@ int main(void)
   Lcd_HandleTypeDef lcd;
   lcd = Lcd_create(ports, pins, GPIOB, GPIO_PIN_0, GPIOB, GPIO_PIN_1, LCD_4_BIT_MODE);
   Lcd_cursor(&lcd, 0,1);
-  Lcd_string(&lcd, "CSE(CS)");
+  Lcd_string(&lcd, "212222240008");
   Lcd_cursor(&lcd, 1,2);
   Lcd_string(&lcd, "AMURTHA VAAHINI.KN");
   while (1)
@@ -216,6 +217,7 @@ void Error_Handler(void)
   }
 
 }
+```
 
 
 
